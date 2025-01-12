@@ -18,6 +18,9 @@ Posterior MCMC draws of the best fitting model (Diff-HMM) of Schlagenhauf & al. 
 
 ## References
 1- Desch, S., Schweinhardt, P., Seymour, B., Flor, H., & Becker, S. (2023). Evidence for dopaminergic involvement in endogenous modulation of pain relief. eLife, 12, e81436. https://doi.org/10.7554/eLife.81436
+
 2- Kreis, I., Zhang, L., Mittner, M., Syla, L., Lamm, C., & Pfuhl, G. (2023). Aberrant uncertainty processing is linked to psychotic-like experiences, autistic traits, and is reflected in pupil dilation during probabilistic learning. Cognitive, Affective, & Behavioral Neuroscience. https://doi.org/10.3758/s13415-023-01088-2
+
 3- Kreis, I., Zhang, L., Moritz, S., & Pfuhl, G. (2022). Spared performance but increased uncertainty in schizophrenia: Evidence from a probabilistic decision-making task. Schizophrenia Research, 243, 414–423. https://doi.org/10.1016/j.schres.2021.06.038
+
 4- Schlagenhauf, F., Huys, Q. J. M., Deserno, L., Rapp, M. A., Beck, A., Heinze, H.-J., Dolan, R., & Heinz, A. (2014). Striatal dysfunction during reversal learning in unmedicated schizophrenia patients. NeuroImage, 89, 171–180. https://doi.org/10.1016/j.neuroimage.2013.11.034
