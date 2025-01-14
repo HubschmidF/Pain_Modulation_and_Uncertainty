@@ -16,6 +16,9 @@ Dataframe with only active test trials of the main task as well as computational
 ### M5_Draws.xlsx
 Posterior MCMC draws of the best fitting model (Diff-HMM) of Schlagenhauf & al. 2013. Those draws are used for posterior inference on parameters.
 
+### Simulation folder
+Contains the simulated data for the models with most free parameters, generating parameter values and recovered parameter values.
+
 ## References
 1- Desch, S., Schweinhardt, P., Seymour, B., Flor, H., & Becker, S. (2023). Evidence for dopaminergic involvement in endogenous modulation of pain relief. eLife, 12, e81436. https://doi.org/10.7554/eLife.81436
 
