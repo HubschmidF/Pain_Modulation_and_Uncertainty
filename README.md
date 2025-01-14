@@ -1,4 +1,4 @@
-# Pain_Modulation_and_Uncertainty
+# Pain Modulation and Uncertainty (Scripts)
 
 Software scripts for the Pain Modulation and Uncertainty project. 
 Contains the software scripts for the analyses and results reported in the main text of the "Reward-induced endogenous pain inhibition scales with action-outcome certainty in humans" manuscript (Not published).
