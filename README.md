@@ -5,7 +5,7 @@ Contains the software scripts for the analyses and results reported in the main 
 The used stan implementation of the models is the one of Lei Zhang already used in Kreis & al. 2022, 2023 that is openly available (https://osf.io/6xab2/), therefore stan files are not given here.
 
 ## Datasets
-Datasets are openly available on a dedicated OSF repository (ADD LINK).
+Datasets are openly available on a dedicated OSF repository (https://osf.io/s2j9w/).
 
 ### Task_Data.csv
 Dataframe of the raw data of the main task.
