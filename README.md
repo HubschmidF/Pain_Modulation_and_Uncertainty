@@ -27,3 +27,4 @@ Contains the simulated data for the models with most free parameters, generating
 3- Kreis, I., Zhang, L., Moritz, S., & Pfuhl, G. (2022). Spared performance but increased uncertainty in schizophrenia: Evidence from a probabilistic decision-making task. Schizophrenia Research, 243, 414–423. https://doi.org/10.1016/j.schres.2021.06.038
 
 4- Schlagenhauf, F., Huys, Q. J. M., Deserno, L., Rapp, M. A., Beck, A., Heinze, H.-J., Dolan, R., & Heinz, A. (2014). Striatal dysfunction during reversal learning in unmedicated schizophrenia patients. NeuroImage, 89, 171–180. https://doi.org/10.1016/j.neuroimage.2013.11.034
+
